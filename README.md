@@ -1,2 +1,3 @@
 # Devops
-This repositry created for practising devops.
+This repositry created for practising devops. 
+updated from ubuntu machine
