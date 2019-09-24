@@ -1,2 +1,2 @@
 # Devops
-practising devops
+This repositry created for practising devops.
