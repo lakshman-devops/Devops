@@ -1,10 +1,2 @@
-sample
+This for practising purpose
 
-
-
-   for the practice of ubuntu
-
-
-{
-
-}
